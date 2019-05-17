@@ -1,0 +1,146 @@
+body {
+    direction: rtl;
+    background-image: url('../photos/reka-01.png');
+    background-position: center;
+    background-size: 1200px 944px;
+    background-repeat: no-repeat;
+    height: 930px;
+    font-family:Calibri;
+}
+
+#container {
+    font-weight: bold;
+    margin: 0 auto;
+    width: 960px;
+    font-size:25px;
+}
+
+#form {
+    position: absolute;
+    margin-top: 760px;
+    margin-right: 580px;
+}
+
+h1{
+    font-size:40pt;
+    margin-right:510px;
+    margin-top:200px;
+    position:absolute;
+}
+
+p {
+    position: absolute;
+    margin-top: 300px;
+    margin-right: 650px;
+}
+
+#pratim {
+    position: absolute;
+    margin-top: 650px;
+    margin-right: 650px;
+    font-size:25pt;
+}
+
+a {
+    position: absolute;
+    margin-top: 600px;
+    margin-right: 800px;
+    font-size:15pt;
+}
+
+#bein {
+    position: absolute;
+    margin-top: 370px;
+    margin-right: 700px;
+    text-align: center;
+}
+
+#illus {
+    background-image: url('../photos/illus-01.png');
+    width: 100px;
+    height: 100px;
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-top: 450px;
+    margin-right: 1000px;
+}
+
+    #illus:hover {
+        background-image: url('../photos/illus-02.png');
+        width: 200px;
+        height: 200px;
+        background-size: 200px 200px;
+    }
+
+#photoshop {
+    background-image: url('../photos/photoshop-01.png');
+    width: 100px;
+    height: 100px;
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-top: 450px;
+    margin-right: 890px;
+}
+
+    #photoshop:hover {
+        background-image: url('../photos/photoshop-02.png');
+        width: 200px;
+        height: 200px;
+        background-size: 200px 200px;
+    }
+
+#animate {
+    background-image: url('../photos/animate-01.png');
+    width: 100px;
+    height: 100px;
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-top: 450px;
+    margin-right: 780px;
+}
+
+    #animate:hover {
+        background-image: url('../photos/animate-02.png');
+        width: 200px;
+        height: 200px;
+        background-size: 200px 200px;
+    }
+
+#js {
+    background-image: url('../photos/js-01.png');
+    width: 100px;
+    height: 100px;
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-top: 450px;
+    margin-right: 670px;
+}
+
+    #js:hover {
+        background-image: url('../photos/js-02.png');
+        width: 200px;
+        height: 200px;
+        background-size: 200px 200px;
+    }
+
+#csharp {
+     background-image: url('../photos/c-sharp-02.png');
+    width: 100px;
+    height: 100px;
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-top: 450px;
+    margin-right: 560px;
+}
+
+    #csharp:hover {
+        background-image: url('../photos/c-sharp-01.png');
+        width: 200px;
+        height: 200px;
+        background-size: 200px 200px;
+    }
